@@ -1,0 +1,6 @@
+[submodule "skia"]
+	path = skia
+	url = https://github.com/google/skia
+[submodule "glfw"]
+	path = glfw
+	url = https://github.com/glfw/glfw.git
